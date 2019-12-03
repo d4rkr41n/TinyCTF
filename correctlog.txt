@@ -1,8 +1,0 @@
-(cyber123) Start (1575342565506)
-(cyber123) Got flag: cyber1 (1575342572438)
-(cyber123) Got flag: cyber2 (1575342577464)
-(cyber123) Start (1575342601020)
-(cyber123) Got flag: cyber1 (1575342605576)
-(cyber123) Got flag: cyber1 (1575342607951)
-(cyber123) Start (1575344060035)
-(cyber123) Start (1575344124316)
