@@ -1,0 +1,1 @@
+cat correctlog.txt | grep $(cat config.json | grep \"name\" | cut -d '"' -f 4 | awk '{print $1}' | sed "s/^/\(/" | sed "s/$/\)/") | grep -v "Start" | awk '{print $2$3$4}' | sort -u | wc -l
