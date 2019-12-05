@@ -22,14 +22,23 @@
     "teamcfg" : {
         "teams" : [
             {"name":"cyber1", "active":"1"},
-            {"name":"cyber2", "active":"0"},
             {"name":"cyber3", "active":"0"}
         ]
     },
     "flags" : [
-        {"flag":"cyber1", "value":"1"},
-        {"flag":"cyber2", "value":"10"},
-        {"flag":"cyber3", "value":"100"},
-        {"flag":"cyber4", "value":"1000"}
+        {"flag":"ursneaky", "value":"1"},
+        {"flag":"FISHAREHOT", "value":"1"},
+        {"flag":"PlsNoHax", "value":"1"},
+        {"flag":"iamroot1!", "value":"1"},
+        {"flag":"ruaMAZEd?", "value":"1"},
+        {"flag":"KALI", "value":"1"},
+        {"flag":"redherring", "value":"1"},
+        {"flag":"youcanpickyourlock", "value":"1"},
+        {"flag":"youcanlockyourpick", "value":"1"},
+        {"flag":"butyoucantpickyourfriendspick", "value":"1"},
+        {"flag":"BombDefusalNovice", "value":"1"},
+        {"flag":"ManyFailedAttempts", "value":"1"},
+        {"flag":"Kaboom", "value":"1"},
+        {"flag":"YouGotFar", "value":"1"}
     ]
 }

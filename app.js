@@ -29,5 +29,5 @@ if(numActive != 1){
 console.log(colors.yellow("[*] Loaded " + config.flags.length + " flags!"));
 
 // Mark Starting Time for Team
-fs.appendFileSync('correctlog.txt', "(" + config.teamcfg.name + ")" + " Start (" + Date.now() + ')\n');
+fs.appendFileSync('correctlog.txt', "(" + config.teamcfg.teams[team].name + ")" + " Start (" + Date.now() + ')\n');
 webserv.rundashserver(config.servercfg.dashboard.bindaddr, config.servercfg.dashboard.bindport,config.flags,config.teamcfg.teams[team].name);
