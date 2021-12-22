@@ -38,7 +38,7 @@ They use the following format...
 I am not actively working on / maintaining this repo. This was used one time and worked well for me.    
 If you are interested in contributing or adding features, I would be more than happy to take pull requests and become more active with this repo. Right now, there is a need for...
 
- - [] A way to swap the active team and adding challenges without relaunching the server.    
- - [] A built-in scoreboard rather than a bash script that run on a log file :D    
+- [ ] A way to swap the active team and adding challenges without relaunching the server.    
+- [ ] A built-in scoreboard rather than a bash script that run on a log file :D    
 
 If you are hosting a CTF, I'd encourage you to take a look at the [CTFd](https://ctfd.io/) platform as it is rather well polished and has a lot of nice features.
