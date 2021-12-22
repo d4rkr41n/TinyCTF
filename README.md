@@ -3,6 +3,8 @@
 ## Purpose
 This was originally created to be used for a CTF escape room. It works best when only one teams is competing at a time.
 
+![DEMO](./media/TinyDemo.gif)
+
 ## Adding Teams
 Teams can be added via a Json object in the config file. Each team has a name and an indicated as to which one is active. Changes require server restart.    
 
