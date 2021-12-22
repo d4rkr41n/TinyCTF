@@ -1,0 +1,26 @@
+{
+  "name": "tinyctf",
+  "version": "1.0.0",
+  "description": "Local dead simple CTF website that works well for 1 team at a time.",
+  "main": "app.js",
+  "scripts": {
+    "test": "sudo node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4rkr41n/TinyCTF.git"
+  },
+  "author": "d4rkr41n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d4rkr41n/TinyCTF/issues"
+  },
+  "homepage": "https://github.com/d4rkr41n/TinyCTF#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "path": "^0.12.7"
+  }
+}
