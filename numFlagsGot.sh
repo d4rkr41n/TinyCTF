@@ -1,3 +1,5 @@
+#!/bin/bash
+
 readarray -t <<< $(cat config.json | grep \"name\" | cut -d '"' -f 4 | awk '{print $1}' | sed "s/^/\(/" | sed "s/$/\)/") # split to array $names
 
 for (( i=0; i<${#MAPFILE[@]}; i++ ))
